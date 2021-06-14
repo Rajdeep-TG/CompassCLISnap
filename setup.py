@@ -2,7 +2,7 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 setuptools.setup(
-    name="Compass",
+    name="PyCompass",
     version="1.0.0beta",
     author="TechGeeks",
     author_email="ZypeLang@tgeeks.cf",
