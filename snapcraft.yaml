@@ -1,9 +1,9 @@
 name: pycompass
-version: 1.0.0-linux-amd64
+version: 1.0.1beta
 summary: The Official CLI for Zype Programming Language.
 description: |
   Compass is the official CLI for Zype Programming Language.
-base: core
+base: core18
 
 parts:
   pycompass:

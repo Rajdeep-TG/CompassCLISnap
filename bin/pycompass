@@ -14,7 +14,7 @@ from rich.pretty import Pretty
 from rich import pretty
 
 def main():
-    __version__ = '1.0.0 Beta [Snap AMD64]'
+    __version__ = '1.0.1 Beta [Snap]'
 
     pretty.install()
 
