@@ -3,7 +3,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 setuptools.setup(
     name="PyCompass",
-    version="1.0.1beta",
+    version="1.1.0",
     author="TechGeeks",
     author_email="ZypeLang@tgeeks.cf",
     maintainer="Rajdeep Malakar",
